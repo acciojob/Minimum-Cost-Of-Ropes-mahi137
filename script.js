@@ -1,4 +1,4 @@
-
+/*
 function compare(a, b) {
   if (a < b) {
       return -1;
@@ -8,7 +8,7 @@ function compare(a, b) {
       return 0;
   }
 }
- 
+ */
  
  
 function calculateMinCost() {
